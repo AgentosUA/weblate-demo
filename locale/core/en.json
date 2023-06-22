@@ -1,7 +1,9 @@
 {
     "core": {
         "common": {
-            "hello": "Hello"
+            "hello": "Hello",
+            "continue": "Continue",
+            "skip": "Skip"
         }
     }
 }
