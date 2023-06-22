@@ -1,1 +1,7 @@
-{}
+{
+    "core": {
+        "common": {
+            "hello": "Hello"
+        }
+    }
+}
